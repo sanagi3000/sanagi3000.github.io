@@ -1,0 +1,9 @@
+title: sanagi3000
+logo: /assets/img/dragon.png
+description: >-
+  東京大学大学院情報理工学系研究科の修士学生です．3D Computer Vision, Computer Graphics, Virtual Realityなどの分野に興味があります．
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
